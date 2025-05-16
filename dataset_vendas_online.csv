@@ -1,0 +1,451 @@
+col1,col2,catA,catB,num1,num2
+174.84,3.0,Beleza,Pix,34.0,7.76
+143.09,32.0,Beleza,Pix,40.0,4.94
+182.38,3.0,Eletrônico,Pix,41.0,9.91
+226.15,27.0,Beleza,Cartão Débito,62.0,22.7
+138.29,29.0,Beleza,Cartão Credito,36.0,15.58
+138.29,32.0,Eletrônico,Inválido,22.0,6.15
+228.96,19.0,Eletrônico,Pix,49.0,26.33
+188.37,,Moda,Cartão Débito,61.0,26.39
+,5.0,Casa e Jardim,Boleto,18.0,26.12
+177.13,18.0,Moda,Cartão Débito,40.0,7.16
+126.83,,Moda,Cartão Débito,54.0,13.54
+126.71,42.0,Beleza,Boleto,25.0,29.55
+162.1,22.0,Beleza,Boleto,30.0,23.16
+54.34,21.0,Teste,Boleto,,0.82
+63.75,,Moda,Boleto,40.0,1.96
+999999.99,1.0,Eletrônico,Cartão Crédito,60.0,13.92
+99.36,5.0,Beleza,Pix,18.0,27.28
+165.71,,Beleza,Boleto,62.0,16.16
+104.6,12.0,Eletrônico,Boleto,68.0,14.93
+,26.0,Beleza,Cartão Débito,41.0,3.16
+223.28,46.0,Moda,Boleto,52.0,19.7
+138.71,34.0,Teste,Inválido,41.0,24.66
+153.38,,Moda,Pix,34.0,11.41
+78.76,14.0,Moda,Pix,22.0,23.27
+122.78,26.0,Teste,Pix,37.0,28.93
+155.55,45.0,Moda,Pix,,6.11
+92.45,27.0,Beleza,Cartão Débito,57.0,15.7
+168.78,9.0,Moda,Pix,48.0,8.61
+119.97,26.0,Teste,Cartão Débito,63.0,23.79
+135.42,47.0,Moda,Pix,-20.0,17.33
+119.91,,Eletrônico,Boleto,28.0,19.04
+242.61,47.0,Beleza,Boleto,69.0,23.94
+149.33,30.0,Moda,Pix,,11.88
+,43.0,Casa e Jardim,Boleto,,27.45
+191.13,48.0,Eletrônico,Pix,24.0,15.99
+88.96,17.0,Casa e Jardim,Cartão Crédito,68.0,4.74
+160.44,,Moda,Pix,45.0,20.88
+52.02,36.0,Casa e Jardim,Cartão Crédito,68.0,23.8
+,1.0,Casa e Jardim,Pix,60.0,9.5
+,8.0,Beleza,Boleto,22.0,25.72
+186.92,49.0,Beleza,Boleto,,27.18
+,,Casa e Jardim,Boleto,,8.31
+144.22,15.0,Moda,Cartão Crédito,49.0,29.51
+134.94,,Beleza,Boleto,25.0,4.22
+76.07,22.0,Casa e Jardim,Pix,27.0,6.06
+114.01,14.0,Moda,Pix,150.0,5.53
+126.97,26.0,Eletrônico,Cartão Débito,64.0,26.82
+,28.0,Beleza,Cartão Crédito,49.0,19.63
+167.18,23.0,Beleza,Boleto,65.0,4.56
+61.85,14.0,Teste,Boleto,45.0,13.21
+166.2,24.0,Casa e Jardim,Pix,,18.46
+130.75,,Beleza,Pix,48.0,2.5
+116.15,45.0,Casa e Jardim,Pix,,26.47
+180.58,26.0,Moda,Cartão Débito,57.0,24.11
+201.55,,Casa e Jardim,Pix,42.0,15.16
+196.56,,Casa e Jardim,Pix,26.0,29.01
+108.04,3.0,Beleza,Pix,19.0,12.53
+,47.0,Moda,Boleto,32.0,29.52
+166.56,23.0,Moda,Cartão Crédito,67.0,20.04
+198.78,,Moda,Pix,20.0,19.04
+126.04,,Moda,Boleto,66.0,120.0
+,47.0,Beleza,Inválido,53.0,26.46
+,45.0,Moda,Pix,21.0,12.82
+,18.0,Beleza,Pix,31.0,4.87
+190.63,38.0,Casa e Jardim,Pix,,0.38
+217.81,35.0,Beleza,Boleto,58.0,16.79
+146.4,15.0,Teste,Pix,42.0,15.82
+200.18,25.0,Casa e Jardim,Boleto,,21.58
+168.08,37.0,Beleza,Cartão Débito,27.0,26.71
+117.74,28.0,Casa e Jardim,Cartão Débito,38.0,2.38
+,10.0,Moda,Pix,53.0,21.94
+226.9,39.0,Eletrônico,Cartão Débito,29.0,5.62
+,17.0,Moda,Boleto,44.0,25.75
+228.23,39.0,Moda,Boleto,57.0,24.57
+19.01,22.0,Beleza,Cartão Crédito,19.0,16.22
+,26.0,Moda,Inválido,30.0,21.31
+,,Teste,Cartão Crédito,49.0,9.43
+,25.0,Casa e Jardim,Pix,48.0,14.14
+154.59,17.0,Eletrônico,Cartão Crédito,33.0,24.65
+,13.0,Beleza,Boleto,49.0,13.78
+139.02,20.0,Beleza,Pix,49.0,10.73
+,25.0,Eletrônico,Cartão Credito,51.0,14.83
+223.89,4.0,Casa e Jardim,Cartão Crédito,28.0,24.85
+124.09,10.0,Eletrônico,Cartão Crédito,27.0,10.06
+,3.0,Moda,Boleto,32.0,5.21
+,,Casa e Jardim,Boleto,34.0,21.36
+195.77,,Moda,Pix,57.0,24.78
+166.44,18.0,Casa e Jardim,Pix,35.0,3.02
+,47.0,Moda,Boleto,26.0,7.2
+175.66,,Teste,Cartão Crédito,42.0,4.26
+,47.0,Teste,Pix,57.0,10.44
+198.43,,Eletrônico,Inválido,31.0,13.51
+,34.0,Moda,Boleto,42.0,22.46
+133.62,47.0,Beleza,Pix,67.0,19.53
+130.39,8.0,Casa e Jardim,Boleto,39.0,18.63
+76.82,40.0,Moda,Pix,69.0,10.57
+,49.0,Moda,Boleto,47.0,25.24
+163.05,44.0,Casa e Jardim,Cartão Crédito,37.0,14.14
+,19.0,Beleza,Cartão Crédito,38.0,29.37
+138.27,42.0,Beleza,Cartão Crédito,61.0,19.02
+79.23,,Casa e Jardim,Inválido,49.0,3.79
+128.97,37.0,Moda,Cartão Débito,68.0,20.29
+,6.0,Moda,Cartão Crédito,63.0,9.75
+109.89,26.0,Eletrôniko,Cartão Credito,66.0,20.59
+141.94,34.0,Eletrônico,Cartão Débito,38.0,2.09
+170.2,45.0,Eletrôniko,Cartão Crédito,,5.25
+244.31,,Moda,Pix,49.0,25.67
+,37.0,Moda,Inválido,47.0,6.82
+162.88,33.0,Beleza,Pix,56.0,25.11
+,22.0,Eletrônico,Boleto,66.0,8.38
+54.06,21.0,Beleza,Inválido,,19.29
+148.67,6.0,Beleza,Pix,58.0,20.82
+153.01,6.0,Casa e Jardim,Cartão Crédito,64.0,15.38
+,48.0,Moda,Pix,35.0,9.16
+,4.0,Eletrônico,Cartão Débito,38.0,6.38
+165.08,30.0,Beleza,Cartão Débito,30.0,1.0
+148.26,11.0,Beleza,Cartão Débito,38.0,9.12
+91.57,30.0,Beleza,Cartão Crédito,25.0,19.59
+207.14,31.0,Beleza,Cartão Débito,63.0,28.15
+187.6,24.0,Beleza,Inválido,57.0,26.14
+189.55,9.0,Eletrônico,Boleto,63.0,22.98
+104.53,3.0,Eletrônico,Inválido,24.0,23.65
+220.14,31.0,Beleza,Cartão Débito,40.0,19.95
+79.91,40.0,Beleza,Boleto,61.0,7.81
+179.34,37.0,Moda,Boleto,,27.22
+259.52,36.0,Beleza,Pix,28.0,20.12
+100.47,,Moda,Cartão Crédito,39.0,16.81
+121.69,31.0,Beleza,Boleto,39.0,3.33
+,6.0,Eletrônico,Pix,60.0,13.41
+,2.0,Casa e Jardim,Cartão Débito,42.0,13.81
+72.47,20.0,Casa e Jardim,Inválido,39.0,25.94
+153.43,28.0,Moda,Cartão Débito,45.0,16.4
+96.88,11.0,Moda,Cartão Crédito,46.0,11.41
+173.68,4.0,Beleza,Pix,30.0,29.3
+104.03,15.0,Moda,Cartão Crédito,35.0,3.32
+227.5,6.0,Moda,Boleto,19.0,12.68
+110.84,,Casa e Jardim,Cartão Débito,46.0,1.26
+133.9,30.0,Beleza,Inválido,38.0,22.2
+190.68,38.0,Beleza,Pix,32.0,27.54
+88.46,2.0,Moda,Cartão Débito,69.0,8.4
+161.37,15.0,Casa e Jardim,Cartão Débito,44.0,25.75
+215.36,11.0,Casa e Jardim,Pix,67.0,8.77
+69.63,8.0,Beleza,Cartão Débito,48.0,27.32
+159.23,26.0,Beleza,Pix,32.0,22.62
+162.99,45.0,Moda,Pix,68.0,24.15
+189.09,44.0,Casa e Jardim,Boleto,40.0,0.54
+88.15,5.0,Casa e Jardim,Pix,41.0,28.88
+83.98,6.0,Eletrônico,Boleto,61.0,21.8
+176.1,26.0,Casa e Jardim,Boleto,,9.14
+164.85,,Casa e Jardim,Boleto,39.0,24.88
+,19.0,Casa e Jardim,Pix,60.0,8.45
+167.32,,Beleza,Boleto,54.0,26.18
+116.0,33.0,Beleza,Boleto,50.0,3.38
+161.61,20.0,Casa e Jardim,Boleto,,21.11
+164.65,49.0,Beleza,Pix,,16.22
+114.28,12.0,Beleza,Cartão Crédito,40.0,2.9
+243.29,47.0,Casa e Jardim,Boleto,46.0,7.26
+173.69,,Casa e Jardim,Cartão Crédito,47.0,0.37
+,26.0,Eletrônico,Boleto,56.0,14.06
+182.83,14.0,Casa e Jardim,Cartão Débito,61.0,9.04
+101.27,38.0,Casa e Jardim,Boleto,64.0,17.95
+189.35,37.0,Eletrônico,Boleto,42.0,8.92
+207.93,11.0,Eletrôniko,Inválido,,9.0
+108.97,36.0,Moda,Cartão Débito,64.0,22.3
+198.17,13.0,Casa e Jardim,Inválido,25.0,1.44
+170.64,43.0,Eletrônico,Cartão Débito,59.0,27.09
+,3.0,Moda,Cartão Crédito,33.0,25.57
+,33.0,Eletrôniko,Cartão Crédito,25.0,20.03
+137.73,6.0,Moda,Boleto,18.0,17.8
+112.31,,Moda,Pix,61.0,26.77
+105.52,5.0,Moda,Pix,22.0,5.56
+109.21,23.0,Casa e Jardim,Pix,20.0,2.37
+146.14,10.0,Beleza,Boleto,18.0,7.19
+,,Moda,Cartão Débito,,23.84
+163.83,2.0,Casa e Jardim,Cartão Débito,57.0,1.04
+,13.0,Moda,Boleto,52.0,17.48
+150.65,40.0,Moda,Cartão Débito,49.0,29.86
+222.68,,Casa e Jardim,Pix,59.0,25.67
+136.77,20.0,Beleza,Cartão Débito,,15.64
+286.01,1.0,Eletrôniko,Cartão Crédito,60.0,1.91
+181.28,37.0,Casa e Jardim,Inválido,42.0,24.94
+107.14,9.0,Moda,Boleto,27.0,17.97
+96.46,17.0,Teste,Pix,38.0,3.45
+174.12,9.0,Beleza,Cartão Credito,63.0,2.82
+138.83,11.0,Beleza,Pix,56.0,27.29
+185.7,,Moda,Cartão Credito,44.0,20.08
+173.66,24.0,Eletrônico,Cartão Crédito,44.0,24.88
+146.36,38.0,Moda,Boleto,19.0,26.37
+107.66,35.0,Moda,Boleto,58.0,17.15
+74.26,30.0,Casa e Jardim,Boleto,65.0,15.52
+127.67,31.0,Moda,Inválido,30.0,12.91
+,49.0,Eletrônico,Boleto,26.0,9.51
+160.7,5.0,Beleza,Boleto,69.0,13.04
+87.71,44.0,Moda,Cartão Crédito,53.0,23.22
+,14.0,Beleza,Cartão Débito,39.0,18.06
+,11.0,Eletrônico,Pix,59.0,26.78
+,9.0,Eletrônico,Inválido,43.0,13.3
+157.69,34.0,Beleza,Cartão Débito,29.0,18.21
+152.91,12.0,Eletrônico,Boleto,34.0,18.94
+92.85,,Eletrônico,Cartão Crédito,31.0,17.75
+167.89,35.0,Beleza,Cartão Débito,31.0,21.08
+178.04,1.0,Moda,Cartão Débito,51.0,7.12
+204.15,40.0,Casa e Jardim,Cartão Credito,37.0,15.37
+202.69,22.0,Teste,Pix,28.0,3.13
+81.12,,Moda,Cartão Débito,33.0,11.54
+,8.0,Teste,Cartão Credito,-190.0,14.63
+,,Moda,Inválido,48.0,19.57
+,41.0,Moda,Pix,,28.52
+175.75,,Casa e Jardim,Cartão Crédito,36.0,18.02
+342.64,14.0,Moda,Cartão Débito,54.0,22.31
+178.54,30.0,Eletrônico,Pix,21.0,15.19
+206.78,35.0,Teste,Boleto,64.0,19.02
+197.7,21.0,Beleza,Cartão Crédito,21.0,2.13
+182.57,37.0,Beleza,Cartão Crédito,37.0,7.63
+134.24,5.0,Moda,Boleto,27.0,10.86
+187.95,19.0,Casa e Jardim,Boleto,41.0,14.17
+111.36,14.0,Beleza,Boleto,52.0,1.37
+138.16,,Casa e Jardim,Cartão Débito,43.0,4.2
+,4.0,Moda,Boleto,54.0,8.3
+154.09,,Casa e Jardim,Cartão Credito,55.0,29.15
+265.73,45.0,Casa e Jardim,Pix,38.0,9.94
+56.64,42.0,Eletrônico,Cartão Débito,57.0,14.46
+,25.0,Eletrônico,Cartão Débito,56.0,5.88
+69.36,,Casa e Jardim,Boleto,38.0,18.32
+126.4,40.0,Beleza,Pix,27.0,8.42
+204.45,8.0,Beleza,Pix,55.0,6.21
+153.21,39.0,Moda,Cartão Débito,63.0,15.5
+96.11,40.0,Eletrônico,Cartão Débito,21.0,0.17
+114.23,14.0,Teste,Boleto,62.0,0.23
+183.98,,Casa e Jardim,Cartão Débito,37.0,6.57
+113.48,38.0,Casa e Jardim,Cartão Débito,34.0,1.1
+160.82,33.0,Moda,Cartão Crédito,24.0,3.24
+152.28,,Casa e Jardim,Pix,21.0,10.17
+117.42,,Moda,Cartão Crédito,46.0,24.08
+257.2,33.0,Teste,Pix,31.0,17.16
+181.7,25.0,Moda,Cartão Débito,,15.38
+48.74,17.0,Moda,Pix,41.0,8.8
+159.32,33.0,Eletrônico,Boleto,54.0,27.95
+,47.0,Beleza,Cartão Credito,33.0,11.91
+,2.0,Moda,Pix,69.0,2.61
+110.37,14.0,Moda,Pix,21.0,18.51
+144.26,40.0,Eletrôniko,Pix,41.0,3.42
+175.25,,Beleza,Boleto,51.0,10.36
+,,Moda,Pix,,15.22
+89.99,6.0,Casa e Jardim,Boleto,35.0,26.23
+133.27,6.0,Eletrônico,Cartão Crédito,36.0,14.81
+,3.0,Moda,Cartão Crédito,48.0,21.07
+117.33,7.0,Eletrônico,Pix,36.0,29.78
+,8.0,Eletrônico,Boleto,66.0,3.94
+,42.0,Moda,Boleto,63.0,8.24
+86.96,15.0,Eletrônico,Pix,36.0,11.84
+195.89,,Casa e Jardim,Pix,39.0,12.65
+,29.0,Eletrônico,Cartão Débito,41.0,12.33
+201.62,33.0,Beleza,Cartão Crédito,62.0,27.23
+74.03,30.0,Beleza,Pix,,21.42
+125.79,39.0,Casa e Jardim,Cartão Débito,47.0,18.24
+213.35,27.0,Teste,Boleto,55.0,9.28
+114.62,36.0,Beleza,Pix,48.0,24.71
+172.19,29.0,Casa e Jardim,Cartão Débito,53.0,28.65
+188.73,38.0,Teste,Cartão Débito,36.0,24.64
+103.65,33.0,Moda,Pix,65.0,0.05
+147.02,37.0,Moda,Boleto,62.0,19.09
+,,Moda,Boleto,53.0,1.53
+98.78,33.0,Moda,Pix,47.0,7.73
+137.37,4.0,Moda,Pix,66.0,1.79
+87.61,22.0,Eletrônico,Pix,50.0,18.11
+,,Moda,Boleto,35.0,20.6
+,10.0,Beleza,Pix,,3.43
+128.0,5.0,Moda,Cartão Débito,66.0,11.52
+156.54,,Eletrônico,Boleto,45.0,13.69
+222.06,33.0,Eletrônico,Cartão Crédito,64.0,11.07
+,38.0,Casa e Jardim,Boleto,28.0,3.63
+208.16,13.0,Eletrônico,Pix,62.0,12.57
+150.51,31.0,Eletrôniko,Boleto,50.0,22.54
+100.92,47.0,Beleza,Boleto,34.0,2.13
+,36.0,Moda,Pix,,2.41
+159.95,,Eletrônico,Pix,21.0,10.64
+119.99,24.0,Eletrôniko,Cartão Credito,37.0,28.25
+153.49,15.0,Casa e Jardim,Cartão Crédito,65.0,20.06
+130.73,29.0,Beleza,Pix,64.0,20.36
+155.68,8.0,Moda,Pix,44.0,10.86
+183.11,5.0,Moda,Inválido,32.0,17.81
+229.3,29.0,Moda,Pix,23.0,0.3
+,47.0,Moda,Pix,64.0,19.08
+256.65,,Casa e Jardim,Boleto,31.0,27.4
+52.4,12.0,Moda,Cartão Crédito,,18.38
+,45.0,Casa e Jardim,Inválido,,26.21
+179.42,2.0,Eletrôniko,Boleto,26.0,21.72
+,27.0,Beleza,Cartão Débito,43.0,3.62
+118.87,31.0,Moda,Cartão Credito,33.0,27.07
+139.59,,Moda,Pix,22.0,1.99
+125.35,,Eletrôniko,Pix,,16.02
+,26.0,Casa e Jardim,Cartão Débito,27.0,4.26
+192.48,43.0,Teste,Cartão Crédito,67.0,0.35
+167.85,27.0,Casa e Jardim,Pix,20.0,12.66
+115.35,5.0,Moda,Inválido,30.0,8.85
+194.98,20.0,Beleza,Pix,60.0,14.58
+165.36,11.0,Beleza,Pix,66.0,17.32
+190.64,10.0,Moda,Cartão Crédito,47.0,1.31
+,40.0,Beleza,Inválido,62.0,3.69
+108.55,38.0,Eletrônico,Cartão Crédito,23.0,16.76
+121.99,6.0,Moda,Cartão Débito,34.0,10.3
+187.36,8.0,Beleza,Cartão Débito,62.0,21.88
+,23.0,Beleza,Pix,68.0,19.57
+148.95,47.0,Casa e Jardim,Boleto,36.0,25.37
+155.87,26.0,Moda,Cartão Crédito,59.0,20.77
+213.88,46.0,Moda,Pix,52.0,12.9
+120.42,43.0,Teste,Cartão Débito,63.0,20.19
+177.35,12.0,Eletrônico,Cartão Débito,43.0,8.26
+,26.0,Beleza,Boleto,68.0,9.19
+139.12,13.0,Casa e Jardim,Boleto,22.0,23.67
+204.94,40.0,Beleza,Cartão Crédito,46.0,13.39
+191.27,18.0,Beleza,Cartão Crédito,54.0,23.95
+190.68,25.0,Casa e Jardim,Cartão Crédito,37.0,24.67
+215.27,33.0,Moda,Pix,66.0,25.73
+,47.0,Teste,Pix,38.0,27.5
+184.1,40.0,Casa e Jardim,Pix,27.0,12.93
+134.49,43.0,Beleza,Pix,22.0,9.57
+166.21,12.0,Moda,Pix,53.0,17.47
+143.49,44.0,Eletrôniko,Boleto,23.0,11.14
+154.85,36.0,Moda,Cartão Débito,43.0,18.03
+179.76,48.0,Casa e Jardim,Pix,21.0,21.17
+109.09,4.0,Eletrônico,Inválido,56.0,20.65
+254.62,5.0,Moda,Cartão Débito,56.0,11.24
+99.7,37.0,Teste,Cartão Crédito,67.0,5.01
+89.29,8.0,Casa e Jardim,Cartão Débito,52.0,12.92
+207.91,42.0,Teste,Boleto,,4.28
+189.58,49.0,Moda,Boleto,41.0,26.7
+181.21,,Teste,Pix,53.0,10.38
+181.42,31.0,Beleza,Boleto,23.0,4.63
+,9.0,Moda,Pix,,0.76
+105.14,29.0,Moda,Boleto,,19.37
+153.79,14.0,Teste,Boleto,61.0,19.11
+,40.0,Eletrônico,Boleto,48.0,10.22
+,41.0,Moda,Boleto,37.0,2.15
+142.65,,Beleza,Cartão Débito,41.0,12.29
+108.73,,Eletrônico,Cartão Crédito,42.0,9.34
+133.93,23.0,Teste,Pix,53.0,20.31
+170.65,1.0,Eletrônico,Cartão Débito,38.0,18.17
+,46.0,Beleza,Pix,47.0,10.94
+108.89,37.0,Casa e Jardim,Cartão Crédito,41.0,6.54
+162.18,21.0,Moda,Cartão Crédito,61.0,29.64
+162.25,26.0,Moda,Pix,59.0,13.62
+124.65,46.0,Beleza,Inválido,47.0,20.65
+,36.0,Beleza,Boleto,39.0,4.22
+161.6,23.0,Moda,Inválido,45.0,14.57
+77.6,1.0,Teste,Boleto,,0.83
+79.63,40.0,Beleza,Pix,52.0,15.16
+114.08,15.0,Casa e Jardim,Pix,45.0,28.92
+139.33,21.0,Casa e Jardim,Boleto,,11.53
+165.55,47.0,Casa e Jardim,Cartão Crédito,27.0,1.17
+223.77,9.0,Moda,Cartão Débito,33.0,0.93
+,9.0,Moda,Cartão Débito,33.0,11.64
+142.0,10.0,Moda,Pix,48.0,4.8
+149.05,26.0,Moda,Inválido,59.0,0.7
+,41.0,Casa e Jardim,Cartão Débito,42.0,22.69
+149.07,,Casa e Jardim,Boleto,30.0,13.76
+135.57,25.0,Eletrôniko,Cartão Crédito,23.0,8.68
+166.14,26.0,Beleza,Pix,61.0,27.0
+108.64,,Moda,Boleto,26.0,3.48
+175.97,38.0,Eletrônico,Pix,62.0,28.68
+226.64,2.0,Eletrônico,Cartão Crédito,53.0,9.42
+144.56,7.0,Moda,Cartão Débito,60.0,26.65
+170.09,18.0,Casa e Jardim,Cartão Crédito,37.0,18.09
+184.51,27.0,Eletrôniko,Boleto,35.0,24.8
+129.94,34.0,Beleza,Inválido,60.0,29.52
+161.2,27.0,Beleza,Cartão Débito,38.0,8.65
+150.63,17.0,Moda,Pix,21.0,28.83
+154.88,43.0,Casa e Jardim,Cartão Débito,67.0,11.68
+111.35,44.0,Moda,Cartão Crédito,50.0,11.57
+151.23,24.0,Moda,Cartão Crédito,44.0,10.21
+174.9,25.0,Beleza,Boleto,,16.24
+222.56,7.0,Moda,Pix,23.0,4.62
+197.96,6.0,Beleza,Pix,32.0,16.61
+257.66,24.0,Casa e Jardim,Boleto,35.0,16.25
+111.63,33.0,Eletrônico,Cartão Credito,49.0,22.86
+193.62,,Moda,Pix,28.0,25.01
+,29.0,Casa e Jardim,Pix,37.0,13.21
+,,Beleza,Cartão Débito,41.0,9.07
+109.59,22.0,Casa e Jardim,Boleto,32.0,7.78
+108.01,26.0,Eletrônico,Pix,65.0,5.84
+,28.0,Beleza,Pix,24.0,1.73
+43.81,21.0,Beleza,Cartão Credito,,10.27
+123.71,49.0,Beleza,Cartão Crédito,59.0,8.11
+112.04,7.0,Eletrônico,Cartão Débito,43.0,28.99
+157.52,17.0,Eletrônico,Pix,61.0,16.73
+167.09,,Beleza,Cartão Credito,31.0,10.42
+243.81,41.0,Beleza,Boleto,54.0,17.41
+197.52,49.0,Moda,Boleto,38.0,4.18
+,20.0,Moda,Boleto,35.0,13.32
+105.08,22.0,Beleza,Pix,22.0,18.79
+174.6,28.0,Eletrôniko,Pix,20.0,14.67
+83.99,,Casa e Jardim,Pix,40.0,12.05
+241.57,49.0,Moda,Cartão Credito,,29.82
+208.97,,Moda,Boleto,54.0,26.41
+126.54,1.0,Beleza,Cartão Débito,,18.7
+64.34,32.0,Eletrônico,Cartão Débito,,17.08
+217.69,13.0,Moda,Cartão Débito,36.0,18.62
+144.27,30.0,Casa e Jardim,Pix,68.0,6.04
+211.89,23.0,Eletrônico,Boleto,42.0,11.85
+,19.0,Moda,Pix,38.0,1.18
+,32.0,Teste,Boleto,29.0,14.27
+150.26,30.0,Moda,Pix,58.0,16.29
+,29.0,Moda,Cartão Credito,50.0,6.83
+127.5,49.0,Eletrônico,Pix,67.0,28.92
+181.14,45.0,Moda,Inválido,21.0,27.28
+96.62,29.0,Beleza,Pix,59.0,21.66
+142.88,30.0,Teste,Cartão Crédito,24.0,16.0
+156.01,16.0,Moda,Pix,39.0,26.1
+,40.0,Beleza,Cartão Débito,,3.92
+185.58,19.0,Eletrônico,Boleto,34.0,23.72
+93.77,,Moda,Boleto,41.0,3.74
+,1.0,Eletrônico,Cartão Credito,51.0,23.83
+213.88,14.0,Beleza,Boleto,45.0,8.27
+,47.0,Beleza,Pix,60.0,26.31
+112.58,2.0,Beleza,Cartão Débito,58.0,28.32
+227.56,28.0,Moda,Boleto,56.0,4.46
+155.78,49.0,Eletrônico,Cartão Credito,39.0,13.88
+208.96,30.0,Eletrônico,Cartão Crédito,,29.43
+,38.0,Beleza,Cartão Crédito,34.0,14.5
+253.04,4.0,Beleza,Pix,51.0,25.91
+237.77,1.0,Beleza,Pix,23.0,17.66
+137.55,,Casa e Jardim,Boleto,63.0,11.26
+,29.0,Beleza,Pix,23.0,8.57
+,39.0,Casa e Jardim,Pix,51.0,6.1
+218.43,3.0,Beleza,Cartão Crédito,18.0,22.85
+101.75,,Beleza,Cartão Crédito,27.0,11.6
+,10.0,Casa e Jardim,Cartão Débito,,15.34
+202.92,10.0,Moda,Pix,22.0,14.77
+62.06,19.0,Moda,Boleto,19.0,17.32
+90.84,46.0,Casa e Jardim,Cartão Débito,39.0,25.97
+48.04,34.0,Beleza,Boleto,,29.42
+136.53,33.0,Beleza,Cartão Débito,19.0,12.23
+185.88,23.0,Beleza,Pix,27.0,24.83
+225.12,28.0,Casa e Jardim,Inválido,51.0,22.94
+,32.0,Beleza,Cartão Crédito,33.0,17.21
+,,Moda,Cartão Crédito,65.0,28.68
+80.99,,Casa e Jardim,Boleto,68.0,6.01
+64.83,8.0,Beleza,Inválido,56.0,3.28
+147.22,1.0,Eletrônico,Cartão Débito,39.0,25.62
+169.2,3.0,Casa e Jardim,Cartão Crédito,29.0,13.17
+148.37,24.0,Moda,Pix,,25.41
+46.63,,Moda,Inválido,,26.79
+145.54,8.0,Moda,Pix,57.0,1.87
+84.78,,Beleza,Cartão Débito,55.0,26.5
+183.48,,Moda,Cartão Débito,27.0,13.45
+168.33,3.0,Casa e Jardim,Pix,52.0,15.31
+103.01,33.0,Casa e Jardim,Pix,68.0,18.8
+124.31,28.0,Moda,Pix,66.0,27.79
+97.04,47.0,Casa e Jardim,Pix,,0.57
